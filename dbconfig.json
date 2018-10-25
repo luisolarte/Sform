@@ -1,0 +1,6 @@
+{
+    "database": "SFormDB",
+    "rbms": "MYSQL",
+    "host": "locahost",
+    "port": "3306"
+}
